@@ -1,0 +1,63 @@
+🔥 1) Core Coding Topics to Master (Based on TCS exam patterns)
+
+TCS coding rounds focus on fundamental arrays, strings, linked lists, hashing, sorting/searching, and basic algorithmic logic — often requiring full programs with correct input/output. Practice these topics first:  ￼
+	•	Arrays & Two Pointers
+	•	Strings & Pattern Matching
+	•	Linked Lists
+	•	Sorting / Searching
+	•	Stacks & Queues
+	•	Basic Math & Bitwise Logic
+	•	Edge case handling & I/O formatting
+
+⸻
+
+📌 2) Targeted LeetCode Practice List (Easy → Medium)
+
+These are classic problems on LeetCode that strengthen the pattern recognition needed for TCS tests. All have C++ solutions commonly available.
+
+👉 Arrays
+	1.	Two Sum — https://leetcode.com/problems/two-sum/  (Easy)
+	2.	Move Zeroes — https://leetcode.com/problems/move-zeroes/  (Easy)
+	3.	Maximum Subarray (Kadane) — https://leetcode.com/problems/maximum-subarray/  (Easy)
+	4.	3Sum (Medium) — https://leetcode.com/problems/3sum/  (Medium)
+
+👉 Strings
+5. Valid Anagram — https://leetcode.com/problems/valid-anagram/  (Easy)
+6. Reverse String — https://leetcode.com/problems/reverse-string/  (Easy)
+7. Longest Substring Without Repeating Characters — https://leetcode.com/problems/longest-substring-without-repeating-characters/  (Medium)
+
+👉 Linked Lists
+8. Reverse Linked List — https://leetcode.com/problems/reverse-linked-list/  (Easy)
+9. Merge Two Sorted Lists — https://leetcode.com/problems/merge-two-sorted-lists/  (Easy)
+10. Linked List Cycle — https://leetcode.com/problems/linked-list-cycle/  (Easy)
+
+👉 Searching / Sorting / Math
+11. Binary Search — https://leetcode.com/problems/binary-search/  (Easy)
+12. Search Insert Position — https://leetcode.com/problems/search-insert-position/  (Easy)
+13. Majority Element — https://leetcode.com/problems/majority-element/  (Easy)
+
+👉 Hashing / Maps
+14. Contains Duplicate — https://leetcode.com/problems/contains-duplicate/  (Easy)
+15. Group Anagrams — https://leetcode.com/problems/group-anagrams/  (Medium)
+
+👉 Dynamic Programming / Recursion
+16. Climbing Stairs — https://leetcode.com/problems/climbing-stairs/  (Easy)
+17. Unique Paths — https://leetcode.com/problems/unique-paths/  (Medium)
+
+👉 Additional Fundamental Lists
+	•	LeetCode Top Interview 150 curated list for placement prep: https://leetcode.com/studyplan/top-interview-150/  ￼
+	•	LeetCode Array list: https://leetcode.com/problem-list/array/  ￼
+	•	LeetCode Linked List list: https://leetcode.com/problem-list/linked-list/  ￼
+
+⸻
+
+🧠 3) HackerRank Practice (Structured & Company-Aligned)
+
+While HackerRank doesn’t have a single list of specific TCS problems, practicing intermediate problems here will help improve basic coding skills required in placement tests:
+
+✔ Solve problems tagged under Data Structures, Algorithms, and Problem Solving on HackerRank: https://www.hackerrank.com/  ￼
+
+Examples include:
+	•	Arrays — “Array Manipulation”
+	•	Strings — “Super Reduced String”, “Sherlock and the Valid String”
+	•	Sorting & Searching — “Binary Search Tree”, “Counting Sort”

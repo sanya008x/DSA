@@ -1,0 +1,131 @@
+🔢 1️⃣ Arrays (Very Frequently Asked)
+
+PYQ-Type Questions
+	1.	Second Largest Element in Array
+	•	https://leetcode.com/problems/third-maximum-number/
+	•	https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list
+	2.	Remove Duplicates from Sorted Array
+	•	https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+	3.	Move Zeroes
+	•	https://leetcode.com/problems/move-zeroes/
+	4.	Maximum Subarray Sum (Kadane’s Algorithm)
+	•	https://leetcode.com/problems/maximum-subarray/
+	5.	Left Rotation of Array
+	•	https://www.hackerrank.com/challenges/array-left-rotation
+	6.	Leaders in Array (Important TCS pattern)
+	•	Coding Ninjas Practice:
+https://www.codingninjas.com/codestudio/problems/leaders-in-an-array
+
+⸻
+
+🔤 2️⃣ Strings (Very Frequently Asked)
+
+PYQ-Type Questions
+	1.	Reverse a String
+	•	https://leetcode.com/problems/reverse-string/
+	2.	Check Palindrome
+	•	https://leetcode.com/problems/valid-palindrome/
+	3.	Valid Anagram
+	•	https://leetcode.com/problems/valid-anagram/
+	4.	Remove Duplicates from String
+	•	https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+	5.	Longest Substring Without Repeating Characters
+	•	https://leetcode.com/problems/longest-substring-without-repeating-characters/
+	6.	Count Vowels/Consonants (Common direct coding question)
+	•	HackerRank String Challenges section
+
+⸻
+
+🔍 3️⃣ Searching & Sorting
+
+PYQ-Type Questions
+	1.	Binary Search
+	•	https://leetcode.com/problems/binary-search/
+	2.	Search Insert Position
+	•	https://leetcode.com/problems/search-insert-position/
+	3.	Sort Colors
+	•	https://leetcode.com/problems/sort-colors/
+	4.	Bubble / Insertion Sort (Write manually — common TCS task)
+	5.	Find Majority Element
+	•	https://leetcode.com/problems/majority-element/
+
+⸻
+
+🔗 4️⃣ Linked List (Occasionally Asked)
+	1.	Reverse Linked List
+	•	https://leetcode.com/problems/reverse-linked-list/
+	2.	Merge Two Sorted Lists
+	•	https://leetcode.com/problems/merge-two-sorted-lists/
+	3.	Detect Cycle
+	•	https://leetcode.com/problems/linked-list-cycle/
+
+⸻
+
+🧮 5️⃣ Mathematics & Number Theory (VERY Common in TCS)
+	1.	GCD / HCF of Two Numbers
+	•	https://www.hackerrank.com/challenges/find-gcd
+	2.	Check Prime Number
+	•	Coding Ninjas:
+https://www.codingninjas.com/codestudio/problems/check-prime
+	3.	Armstrong Number
+	4.	Palindrome Number
+	•	https://leetcode.com/problems/palindrome-number/
+	5.	Fibonacci Series
+	•	https://leetcode.com/problems/fibonacci-number/
+	6.	Power of Two
+	•	https://leetcode.com/problems/power-of-two/
+
+⸻
+
+🗺 6️⃣ Hashing / Maps
+	1.	Two Sum
+	•	https://leetcode.com/problems/two-sum/
+	2.	Contains Duplicate
+	•	https://leetcode.com/problems/contains-duplicate/
+	3.	First Non-Repeating Character
+	•	https://leetcode.com/problems/first-unique-character-in-a-string/
+
+⸻
+
+🧠 7️⃣ Recursion & Basic DP
+	1.	Climbing Stairs
+	•	https://leetcode.com/problems/climbing-stairs/
+	2.	Factorial Using Recursion
+	3.	Print All Subarrays (pattern question)
+
+⸻
+
+📊 8️⃣ Pattern Printing (EXTREMELY COMMON in TCS)
+
+You must practice:
+	•	Star Pyramid
+	•	Number Pyramid
+	•	Hollow Square
+	•	Floyd’s Triangle
+	•	Pascal’s Triangle
+	•	https://leetcode.com/problems/pascals-triangle/
+
+TCS sometimes gives direct pattern printing full program.
+
+⸻
+
+📦 9️⃣ Matrix Problems
+	1.	Transpose Matrix
+	•	https://leetcode.com/problems/transpose-matrix/
+	2.	Rotate Image
+	•	https://leetcode.com/problems/rotate-image/
+	3.	Spiral Matrix
+	•	https://leetcode.com/problems/spiral-matrix/
+
+⸻
+
+🎯 10️⃣ Special TCS-Style Questions (Logic Based)
+
+These are very common in NQT:
+	•	Arrange Coins in Staircase
+	•	Minimum Number of Platforms
+	•	Equilibrium Index
+	•	Leaders in Array
+	•	Count Frequency of Elements
+	•	Merge Intervals
+	•	https://leetcode.com/problems/merge-intervals/

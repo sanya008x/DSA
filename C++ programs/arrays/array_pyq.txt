@@ -1,0 +1,149 @@
+         IBM ASE – ARRAY PYQs (Coding)
+
+	1.	Find the largest element in an array.
+	2.	Find the smallest element in an array.
+	3.	Find the second largest element in an array.
+	4.	Find the second smallest element in an array.
+	5.	Reverse an array.
+	6.	Rotate an array by K positions.
+	7.	Rotate an array left / right by one position.
+	8.	Find the missing number in an array of size N.
+	9.	Find duplicate elements in an array.
+	10.	Remove duplicate elements from an array.
+	11.	Count the frequency of each element in an array.
+	12.	Find the sum of all elements in an array.
+	13.	Find the maximum and minimum difference in an array.
+	14.	Merge two sorted arrays.
+	15.	Sort an array in ascending order.
+	16.	Sort an array in descending order.
+	17.	Find common elements between two arrays.
+	18.	Find union and intersection of two arrays.
+	19.	Find pair with given sum in an array.
+	20.	Check if an array is sorted.
+	21.	Find the kth largest element in an array.
+	22.	Find the kth smallest element in an array.
+	23.	Move all zeros to the end of the array.
+	24.	Separate even and odd numbers in an array.
+	25.	Find majority element in an array.
+	26.	Find the subarray with maximum sum.
+	27.	Find equilibrium index of an array.
+	28.	Find leaders in an array.
+	29.	Find missing and repeating numbers in an array.
+	30.	Find peak element in an array.
+	31.	Count the number of inversions in an array.
+	32.	Find maximum product of two elements in an array.
+	33.	Rearrange array in alternating positive and negative numbers.
+	34.	Check if two arrays are equal.
+	35.	Find longest increasing subarray.
+	36.	Replace each element with greatest element on right side.
+	37.	Find sum of contiguous subarray.
+	38.	Find minimum number of jumps to reach end.
+	39.	Find duplicate number in range 1 to N.
+	40.	Find first repeating element in an array.
+
+
+
+	🟢 ARRAYS (Very Important)
+
+1️⃣ Plus Minus
+https://www.hackerrank.com/challenges/plus-minus
+
+void plusMinus(vector<int> arr) {
+    
+    int pos = 0, neg = 0, zero = 0;
+    int n = arr.size();
+    
+    for(int i = 0; i < n; i++) {
+        if(arr[i] > 0)
+            pos++;
+        else if(arr[i] < 0)
+            neg++;
+        else
+            zero++;
+    }
+    
+    double p = pos * 1.0 / n;
+    double ne = neg * 1.0 / n;
+    double z = zero * 1.0 / n;
+    
+    cout.precision(6);
+    cout << fixed << p << endl;
+    cout << ne << endl;
+    cout << z << endl;
+}
+
+2️⃣ Mini-Max Sum
+https://www.hackerrank.com/challenges/mini-max-sum
+
+void miniMaxSum(vector<int> arr) {
+
+    long long total = 0;
+    long long minVal = arr[0];
+    long long maxVal = arr[0];
+
+    for(int i = 0; i < 5; i++) {
+        total += arr[i];
+
+        if(arr[i] < minVal)
+            minVal = arr[i];
+
+        if(arr[i] > maxVal)
+            maxVal = arr[i];
+    }
+
+    cout << total - maxVal << " " << total - minVal;
+}
+
+
+3️⃣ Left Rotation
+https://www.hackerrank.com/challenges/array-left-rotation
+
+vector<int> rotateLeft(int d, vector<int> arr) {
+
+    int n = arr.size();
+    d = d % n;   // handle cases where d > n
+    
+    vector<int> result(n);
+    
+    for(int i = 0; i < n; i++) {
+        result[i] = arr[(i + d) % n];
+    }
+    
+    return result;
+}
+
+4️⃣ Sparse Arrays (frequency logic)
+https://www.hackerrank.com/challenges/sparse-arrays
+
+vector<int> matchingStrings(vector<string> stringList, vector<string> queries) {
+
+    vector<int> result;
+
+    for(int i = 0; i < queries.size(); i++) {
+
+        int count = 0;
+
+        for(int j = 0; j < stringList.size(); j++) {
+            if(queries[i] == stringList[j]) {
+                count++;
+            }
+        }
+
+        result.push_back(count);
+    }
+
+    return result;
+}
+
+5️⃣ Missing Numbers
+https://www.hackerrank.com/challenges/missing-numbers
+
+6️⃣ Subarray Division (prefix sum logic)
+https://www.hackerrank.com/challenges/the-birthday-bar
+
+7️⃣ Dynamic Array
+https://www.hackerrank.com/challenges/dynamic-array
+
+8️⃣ Maximum Subarray Sum
+https://www.hackerrank.com/challenges/maximum-subarray-sum
+

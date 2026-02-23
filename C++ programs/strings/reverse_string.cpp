@@ -8,7 +8,9 @@ using namespace std;
 void reverseString(string &str) {
     int left = 0;
     int right = str.length() - 1;
-
+//Hum right pointer ko n - 1 se start isliye karte hain kyunki:
+//👉 Array / string indexing 0 se start hoti hai
+// so if str= "sanya" then indexing will be s=0, a=1, n=2, y=3, a=4 
     while (left < right) {
         swap(str[left], str[right]);
         left++;
@@ -34,6 +36,9 @@ using namespace std;
 void rev(string &word){
 int l=0;
 int r=word.length()-1;
+//Hum right pointer ko n - 1 se start isliye karte hain kyunki:
+//👉 Array / string indexing 0 se start hoti hai
+// so if str= "sanya" then indexing will be s=0, a=1, n=2, y=3, a=4 
 while(l<=r)
 {
 char temp=word[l];

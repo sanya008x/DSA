@@ -1,0 +1,83 @@
+     IBM ASE – STRING PYQs (Technical Round)
+
+🔹 Basic String Operations
+	1.	Reverse a string.
+	2.	Check if a string is a palindrome.
+	3.	Find the length of a string without using strlen().
+	4.	Copy one string to another without using library functions.
+	5.	Compare two strings without using inbuilt functions.
+	6.	Convert lowercase to uppercase and vice versa.
+	7.	Count vowels, consonants, digits, and special characters.
+	8.	Remove spaces from a string.
+	9.	Replace spaces with a given character.
+
+⸻
+
+🔹 Character Frequency & Occurrence
+	10.	Find frequency of each character in a string.
+	11.	Find the first non-repeating character in a string.
+	12.	Find the first repeating character in a string.
+	13.	Find all duplicate characters in a string.
+	14.	Find the character with maximum occurrence.
+	15.	Count occurrence of a given character.
+
+⸻
+
+🔹 String Logic / Pattern Problems
+	16.	Check if two strings are anagrams.
+	17.	Check if one string is a rotation of another.
+	18.	Check if a string is a substring of another.
+	19.	Reverse words in a sentence.
+	20.	Print words of a string in reverse order.
+	21.	Count number of words in a string.
+	22.	Remove duplicate characters from a string.
+	23.	Check if string contains only digits.
+	24.	Find longest word in a sentence.
+
+⸻
+
+🔹 Substring-Based PYQs (IMPORTANT)
+	25.	Print all substrings of a string.
+	26.	Find longest substring without repeating characters.
+	27.	Count substrings with all unique characters.
+	28.	Find smallest window containing all characters of another string.
+	29.	Find longest common prefix.
+
+⸻
+
+🔹 Conversion / Parsing PYQs
+	30.	Convert string to integer (implement atoi).
+	31.	Convert integer to string.
+	32.	Extract numbers from a string.
+	33.	Sum of digits present in a string.
+	34.	Count numeric values in an alphanumeric string.
+
+⸻
+
+🔹 Case-Based & Validation PYQs
+	35.	Check if string is valid palindrome (ignore spaces & case).
+	36.	Check if string contains only alphabets.
+	37.	Validate email format (basic logic).
+	38.	Validate password strength (basic rules).
+
+⸻
+
+🔹 Interview-Favourite Logic Questions
+	39.	Find lexicographically smallest string.
+	40.	Find lexicographically largest string.
+	41.	Sort characters in a string.
+	42.	Check if strings are equal using pointers.
+	43.	Remove a given character from a string.
+	44.	Print string in zig-zag fashion (basic).
+
+⸻
+
+🔥 MOST REPEATED STRING PYQs (IBM)
+
+✔ Reverse string
+✔ Palindrome
+✔ Character frequency
+✔ First non-repeating character
+✔ Anagram check
+✔ Reverse words
+ 

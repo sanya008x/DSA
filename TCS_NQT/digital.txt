@@ -1,0 +1,98 @@
+🎯 TCS Digital Coding – What They Actually Test
+
+1️⃣ Arrays & Two Pointers (Very Important)
+
+Practice these:
+	1.	Two Sum
+https://leetcode.com/problems/two-sum/
+	2.	3Sum
+https://leetcode.com/problems/3sum/
+	3.	Maximum Subarray
+https://leetcode.com/problems/maximum-subarray/
+	4.	Product of Array Except Self
+https://leetcode.com/problems/product-of-array-except-self/
+	5.	Subarray Sum Equals K
+https://leetcode.com/problems/subarray-sum-equals-k/
+	6.	Container With Most Water
+https://leetcode.com/problems/container-with-most-water/
+
+⸻
+
+2️⃣ Strings (Medium Level)
+	1.	Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+	2.	Group Anagrams
+https://leetcode.com/problems/group-anagrams/
+	3.	String Compression
+https://leetcode.com/problems/string-compression/
+	4.	Minimum Window Substring (important pattern)
+https://leetcode.com/problems/minimum-window-substring/
+
+⸻
+
+3️⃣ Binary Search (VERY Common in Digital)
+	1.	Binary Search
+https://leetcode.com/problems/binary-search/
+	2.	Search in Rotated Sorted Array
+https://leetcode.com/problems/search-in-rotated-sorted-array/
+	3.	Find Peak Element
+https://leetcode.com/problems/find-peak-element/
+	4.	Koko Eating Bananas (classic binary search on answer)
+https://leetcode.com/problems/koko-eating-bananas/
+
+⸻
+
+4️⃣ Linked List
+	1.	Reverse Linked List
+	2.	Detect Cycle
+	3.	Remove Nth Node From End
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+	4.	Add Two Numbers
+https://leetcode.com/problems/add-two-numbers/
+
+⸻
+
+5️⃣ Stack & Queue (Digital Favorite)
+	1.	Valid Parentheses
+https://leetcode.com/problems/valid-parentheses/
+	2.	Next Greater Element
+https://leetcode.com/problems/next-greater-element-i/
+	3.	Daily Temperatures
+https://leetcode.com/problems/daily-temperatures/
+	4.	Implement Queue using Stacks
+https://leetcode.com/problems/implement-queue-using-stacks/
+
+⸻
+
+6️⃣ Recursion & Backtracking
+	1.	Subsets
+https://leetcode.com/problems/subsets/
+	2.	Permutations
+https://leetcode.com/problems/permutations/
+	3.	Combination Sum
+https://leetcode.com/problems/combination-sum/
+
+⸻
+
+7️⃣ Dynamic Programming (Very Important for Digital)
+	1.	Climbing Stairs
+	2.	House Robber
+https://leetcode.com/problems/house-robber/
+	3.	Coin Change
+https://leetcode.com/problems/coin-change/
+	4.	Longest Increasing Subsequence
+https://leetcode.com/problems/longest-increasing-subsequence/
+
+⸻
+
+🔥 Real Digital-Level Patterns Seen Before
+
+Common Digital-style questions:
+	•	Maximum product subarray
+	•	Count inversions
+	•	Merge intervals
+	•	Matrix rotation
+	•	BFS/DFS in grid
+	•	Sliding window maximum
+	•	Minimum platforms
+	•	Graph traversal basics
